@@ -1,0 +1,37 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+gradle.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Build output
+out/
+
+# Log files
+*.log
+
+# External native build
+.externalNativeBuild
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
